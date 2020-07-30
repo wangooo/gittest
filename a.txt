@@ -1,9 +1,6 @@
 master更新1
 master本地也更新啦 要推到远端
 master远端更新1
-<<<<<<< Updated upstream
 
 master远端更新2
-=======
 master本地更新2
->>>>>>> Stashed changes
